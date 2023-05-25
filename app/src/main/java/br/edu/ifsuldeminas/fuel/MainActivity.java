@@ -14,13 +14,23 @@ public class MainActivity extends AppCompatActivity {
     private TextInputEditText textInputEditTextEtanol;
     private TextInputEditText textInputEditTextGasolina;
     private Button buttonCalcular;
-    private ImageView imageViewMelhorOpcao;
-    private TextView textViewMelhorOpcao;
+    private ImageView imageViewFuel;
+    private TextView textViewMessage;
     private ImageView imageViewShare;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        textInputEditTextEtanol = findViewById(R.id.textInputEditTextEtanol);
+        textInputEditTextGasolina = findViewById(R.id.textInputEditTextGas);
+        buttonCalcular = findViewById((R.id.buttonCalcular));
+        imageViewFuel = findViewById(R.id.imageViewFuel);
+        textViewMessage = findViewById(R.id.textViewMessage);
+        imageViewShare = findViewById(R.id.imageViewShare);
+
+
+
     }
 }
