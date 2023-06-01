@@ -25,5 +25,6 @@ Além disso, o aplicativo permite que os usuários compartilhem os preços dos c
 
 ## Capturas de tela
 
-![image](https://github.com/MarceloMFerreira/app-android-fuel/assets/70519529/65770780-656c-4607-8cec-825358184ef0)
+![image](https://github.com/MarceloMFerreira/app-android-fuel/assets/70519529/77732dad-ef27-47da-84c7-5e2e72c37598)
+
 
